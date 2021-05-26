@@ -1,1 +1,2 @@
-# tugas01
+Nama : Muh Naufal Faliq
+NIM : D121171503
